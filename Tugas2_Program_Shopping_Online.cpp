@@ -77,7 +77,7 @@ int main () {
 				cout << "##################################" << endl;
 				cout << endl;
 				break;
-			case 3 : // Awal Menu 3
+			case 3 : // Awal Menu 3 ( Sebelum input case 3 jalan... setelah input case 3 muncul Error )
 				int jumlah,total=0;
 				int nomor[]= {1,2,3,4,5};
 				int harga[5]= {10000,11000,13000,18000,15000};
